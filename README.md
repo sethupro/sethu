@@ -1,4 +1,4 @@
-The provided code snippet performs the following tasks and I've used it to analyze however large data sets I've had with the 'housing' csv shown as a sample:
+The code in the main.py file performs the following tasks and I've used it to analyze however large data sets I've had with the 'housing' csv shown as a sample:
 
 Imports Necessary Libraries:
 pandas is imported as pd for data manipulation and analysis.
