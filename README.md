@@ -1,4 +1,4 @@
-Throughout my vast experience in the tech industry, and irrespective of the industry domain, role, or title, I've been data driven and have loved tinkering with data using spreadsheets, sql, python, Power BI, Tableau, Gen AI to name a few. While the list is exhaustive, these are some samples of what I've created and used in my profession.
+Throughout my extensive experience in the tech industry, and irrespective of the industry domain, variety of roles, or titles, I'm data driven and have loved tinkering with data using spreadsheets, sql, python, Power BI, Tableau, Gen AI to name a few. While the list of types of data, projects, prorgams and portfolios I've dealt is exhaustive, spanning from customer/user data, product data, fianancial or sales/marketing data, I've brought some samples to this space of what I've used and created impact for clients in my profession. 
 
 The code in the main.py file performs the following tasks and I've used it to analyze however large data sets I've had with a sample shown below:
 
