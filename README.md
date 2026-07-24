@@ -1,6 +1,6 @@
-Throughout my extensive experience in the tech industry, and irrespective of the industry domain, variety of roles, or titles, I'm data driven and have loved tinkering with data using spreadsheets, sql, python, Power BI, Tableau, Gen AI to name a few. While the list of types of data, projects, prorgams and portfolios I've dealt is exhaustive, spanning from customer/user data, product data, fianancial or sales/marketing data, I've brought some samples to this space of what I've used and created impact for clients in my profession. 
+Throughout my extensive experience in the tech industry, and irrespective of the industry domain, variety of roles, or titles, I'm data guy and have loved slicing dicing data using spreadsheets, sql, python, Power BI, Tableau, Gen AI to name a few. While the list of types of data, prorgams and portfolios I've dealt with is exhaustive, spanning from customer/user data, product data, fianancial or sales/marketing data, I've brought some real samples from my work to this space with illustration of impact created for my clients. 
 
-The code in the main.py file performs the following tasks and I've used it to analyze however large data sets I've had with a sample shown below:
+The code in the main.py file performs the following tasks and I've used it to analyze however large data sets I've had with an anonymized sample shown below:
 
 Imports Necessary Libraries:
 pandas is imported as pd for data manipulation and analysis.
